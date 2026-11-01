@@ -1,6 +1,6 @@
 cask "klipboard" do
-  version "0.3.0"
-  sha256 "a4d995db15d0cb06d9dfa367d077a3660e5e352690e40d220f5a14b822681623"
+  version "0.4.0"
+  sha256 "c5fcbe86b413d731011f0546c25df217e7afeebe360624a26bfc3d14c648c69b"
 
   url "https://github.com/akai-49/Klipboard/releases/download/v#{version}/Klipboard-#{version}.dmg"
   name "Klipboard"
